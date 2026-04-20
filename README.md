@@ -33,6 +33,11 @@ git clone https://github.com/AdamKerns/AppliedMachineLearning-PlantDiseaseImageR
 1. Click the **Code** button
 2. Select **Download ZIP**
 3. Extract the files to your desired location
+
+### *Important*
+
+Once the datasets are downloaded and the files are all local, put the root folders of the datasets into the data folder
+
 ---
 
 ## Data Used
