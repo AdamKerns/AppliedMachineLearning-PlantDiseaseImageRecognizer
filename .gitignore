@@ -213,6 +213,5 @@ __marimo__/
 .DS_Store
 
 # Extra
-data/
 *.jpg
 *.png
