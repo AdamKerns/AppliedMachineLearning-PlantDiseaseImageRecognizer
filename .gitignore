@@ -211,3 +211,8 @@ __marimo__/
 
 # Apple
 .DS_Store
+
+# Extra
+data/
+*.jpg
+*.png
