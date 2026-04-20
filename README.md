@@ -21,8 +21,18 @@ This must be run in a Jupyter Notebook environment. I recommend running it throu
 
 ## How to Use
 
-<!-- Add usage instructions here -->
+Choose one of the following methods to get the project locally:
 
+### Option 1: Clone the Repository
+
+```bash
+git clone https://github.com/AdamKerns/AppliedMachineLearning-PlantDiseaseImageRecognizer.git plant_disease_identifier
+```
+### Option 2: Download as ZIP
+
+1. Click the **Code** button
+2. Select **Download ZIP**
+3. Extract the files to your desired location
 ---
 
 ## Data Used
